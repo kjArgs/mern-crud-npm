@@ -28,6 +28,7 @@
   },
   "dependencies": {
     "express": "^5.2.1",
+    "kj-mern-crud": "^1.0.0",
     "kristan1-input-validator": "^1.0.0",
     "mongoose": "^9.5.0"
   }
